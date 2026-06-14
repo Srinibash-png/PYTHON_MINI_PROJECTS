@@ -44,9 +44,9 @@ while True:
             print("no student found")
 
     elif ch==4:
-        print("Exiting.....")
+        print("Exiting.......")
         break
     else:
-        print("invalid input")
+        print("invalid input choice")
         
 
